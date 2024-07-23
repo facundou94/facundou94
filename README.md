@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Facundo</h1>
-<h3 align="center">bioingeniero apasionado por los datos y la investigación</h3>
+<h3 align="center">Bioingeniero apasionado por la investigación y los datos</h3>
 
 - 🔭 Actualmente me encuentro coordinando **un estudio clínico en la ciudad de Paraná.**
 
