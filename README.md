@@ -7,6 +7,8 @@
 
 - 👯 Me encuentro en la búsqueda de colaborar en **proyectos de investigación orientados a la medicina y la biología en general.**
 
+- :video_game: Como hobbie, también estuve incursionando en el desarrollo de videojuegos RPG 2D con Unity
+
 - 📫 Puedes contactarte conmigo enviandome un mensaje a **facundonahuelurteaga@gmail.com**
 
 - 📄 Para saber más sobre mi, te invito a que pases por mi perfil [https://www.linkedin.com/in/facundo-urteaga-312135207/](https://www.linkedin.com/in/facundo-urteaga-312135207/)
