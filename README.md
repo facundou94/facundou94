@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente me encuentro coordinando **un estudio clínico en la ciudad de Paraná.**
 
-- 🌱 Actualmente estoy incursionando en **procesamiento de datos biológicos y machine learning en general**
+- 🌱 Estoy incursionando en **procesamiento de datos biológicos y machine learning en general**
 
 - 👯 Estoy en la búsqueda de colaborar en **proyectos de investigación orientados a la medicina y la biología en general.**
 
